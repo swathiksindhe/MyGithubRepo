@@ -1,6 +1,5 @@
 # MyGithubRepo
 Github Project
-//////////////
 
 Github Tutorial
 
